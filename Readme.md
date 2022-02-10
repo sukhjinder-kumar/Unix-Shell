@@ -1,9 +1,6 @@
 
 # SHELL
 
-
----
-
 To run the code , use command `make` and then `./shell` and use `exit` to quit the program
 
 In my shell, control starts at main, and here it first calls clear function( to make it nicer experince) and than a loop occurs (a standard for calling prompt multiple times till user exits). Here -
